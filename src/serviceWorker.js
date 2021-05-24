@@ -1,3 +1,5 @@
+/* eslint-disable camelcase */
+/* eslint-enable camelcase */
 /* eslint-disable no-param-reassign */
 /* eslint-disable no-use-before-define */
 // This optional code is used to register a service worker.
