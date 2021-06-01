@@ -92,4 +92,4 @@ export function useShow(showId) {
   }, [showId]);
 
   return state;
- }
+}
